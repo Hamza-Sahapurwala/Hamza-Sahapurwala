@@ -4,6 +4,9 @@ Hi, My name is Hamza and I am dipping my toes in Programming.<br><br>Thanks for 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hamza-Sahapurwala) 
+
+## LeetCode:
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ULTRAZAP?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
@@ -15,7 +18,7 @@ Hi, My name is Hamza and I am dipping my toes in Programming.<br><br>Thanks for 
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/ULTRAZAP/">
     <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
