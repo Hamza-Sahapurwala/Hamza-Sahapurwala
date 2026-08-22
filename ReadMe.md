@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Hamza and I am dipping my toes in Programming.<br><br>Thanks for visiting!
+Hello, My name is Hamza Sahapurwala.<br><br>Keep me on my toes by sending me LeetCode questions! <br><br>Thanks for visiting!
 
 
 ## 🌐 Socials:
@@ -8,18 +8,14 @@ Hi, My name is Hamza and I am dipping my toes in Programming.<br><br>Thanks for 
 ## LeetCode:
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ULTRAZAP?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/HamzaSahapurwala/">
+    <img src="https://leetcard.jacoblin.cool/HamzaSahapurwala?theme=dark&font=baloo&ext=contest" alt="HamzaSahapurwala's LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solved%20Problems-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/ULTRAZAP/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/HamzaSahapurwala/">
+    <img src="https://img.shields.io/badge/LeetCode-HamzaSahapurwala-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
