@@ -7,17 +7,7 @@ Hello, My name is Hamza Sahapurwala.<br><br>Keep me on my toes by sending me Lee
 
 ## LeetCode:
 
-<p align="center">
-  <a href="https://leetcode.com/u/HamzaSahapurwala/">
-    <img src="https://leetcard.jacoblin.cool/HamzaSahapurwala?theme=dark&font=baloo&ext=contest" alt="HamzaSahapurwala's LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/HamzaSahapurwala/">
-    <img src="https://img.shields.io/badge/LeetCode-HamzaSahapurwala-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/HamzaSahapurwala?ext=heatmap)](https://leetcode.com/u/HamzaSahapurwala/)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
